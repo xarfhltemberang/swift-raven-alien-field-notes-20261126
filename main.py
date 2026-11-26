@@ -5,15 +5,15 @@ The entry is a single line of plain text, at most 200 characters, with no
 trailing newline. It reads as a real tourist review: an alien visitor's
 baffled take on one ordinary Earth ritual (the birthday cake), ending with
 a star verdict and a closing remark, with the punch landing on the
-final words ("would be abducted again").
+final words ("best fire I ever tasted").
 """
 
 import os
 
 ENTRY = (
-    "Earth: the locals set a cake on fire, sing at it, blow it out, "
-    "then eat the burnt cake and call it a party. "
-    "5 stars \u2014 would be abducted again."
+    "Earth: they stick candles in a cake, set it on fire, sing at it, "
+    "then blow it out and eat the smoke-flavored cake. "
+    "5 stars, best fire I ever tasted."
 )
 
 
